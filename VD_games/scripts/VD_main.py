@@ -1,6 +1,6 @@
-from .VD_games import greet
+from cli import welcome_user
 
 def main():
-        greet()
+        welcome_user()
 
 main()
