@@ -1,6 +1,6 @@
-from cli import welcome_user
+from VD_even import game_even
 
 def main():
-        welcome_user()
+        game_even()
 
 main()

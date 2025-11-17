@@ -22,5 +22,5 @@ members = [
 
 [project.scripts]
 VD-games = "VD_games.scripts.VD_main:main"
-
+VD-even = "VD_games.scripts.VD_even:main"
 
