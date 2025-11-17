@@ -1,6 +1,6 @@
-from VD_even import game_even
+from VD_gcd import gcd_game
 
 def main():
-        game_even()
+        gcd_game()
 
 main()
